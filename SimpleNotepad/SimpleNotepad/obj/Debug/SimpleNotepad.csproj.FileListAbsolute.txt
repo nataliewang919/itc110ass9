@@ -1,0 +1,14 @@
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\bin\Debug\SimpleNotepad.exe.config
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\bin\Debug\SimpleNotepad.exe
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\bin\Debug\SimpleNotepad.pdb
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.csprojResolveAssemblyReference.cache
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\MainWindow.g.cs
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\App.g.cs
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad_MarkupCompile.cache
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad_MarkupCompile.lref
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\MainWindow.baml
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.g.resources
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.Properties.Resources.resources
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.csproj.GenerateResource.Cache
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.exe
+c:\users\hwang\documents\visual studio 2015\Projects\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.pdb
